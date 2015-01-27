@@ -85,6 +85,24 @@
         <item>@string/send_delay_30seconds</item>
     </string-array>
 
+    <string-array name="sms_to_mms_text_limit_values" translatable="false">
+	    <item>-1</item>
+	    <item>3</item>
+	    <item>4</item>
+	    <item>5</item>
+	    <item>6</item>
+	    <item>7</item>
+    </string-array>
+
+    <string-array name="sms_to_mms_text_limit_entries" translatable="false">
+	    <item>No limit</item>
+	    <item>3</item>
+	    <item>4</item>
+	    <item>5</item>
+	    <item>6</item>
+	    <item>7</item>
+    </string-array>
+
     <string-array name="pref_mms_notification_vibrate_pattern_entries" translatable="false">
         <item>@string/pref_mms_notification_vibrate_normal</item>
         <item>@string/pref_mms_notification_vibrate_med_vib</item>

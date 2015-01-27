@@ -123,6 +123,8 @@
     <!-- Settings item description for boolean SMS Split 160 characters setting -->
     <string name="pref_summary_sms_split_counter">Adds counter to message ex. (1/2)</string>
 
+    <string name="pref_title_sms_to_mms_text_limit">Sms to mms conversion limit</string>
+
     <!-- Blacklist preferences -->
     <string name="blacklist_title">Blacklist</string>
     <string name="blacklist_summary_disabled">Disabled</string>

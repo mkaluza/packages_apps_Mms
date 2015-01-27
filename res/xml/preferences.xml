@@ -100,6 +100,12 @@
             android:key="pref_key_manage_sim_messages"
             android:summary="@string/pref_summary_manage_sim_messages"
             android:title="@string/pref_title_manage_sim_messages" />
+
+        <ListPreference
+            android:entries="@array/sms_to_mms_text_limit_entries"
+            android:entryValues="@array/sms_to_mms_text_limit_values"
+            android:key="pref_key_sms_to_mms_text_limit"
+            android:title="@string/pref_title_sms_to_mms_text_limit" />
     </PreferenceCategory>
 
     <!-- MMS Settings -->
